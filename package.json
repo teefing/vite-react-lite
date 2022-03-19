@@ -10,7 +10,7 @@
     "coverage": "vitest run --coverage",
     "lint": "eslint .",
     "prepare": "husky install",
-    "commit": "git-cz"
+    "commit": "git add . && git-cz"
   },
   "config": {
     "commitizen": {
