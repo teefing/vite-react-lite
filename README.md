@@ -1,6 +1,6 @@
 # React Project Template Powered By Vite
 
-### Usage (with [degit](https://github.com/teefing/vite-react-lite))
+### Usage (with [degit](https://github.com/Rich-Harris/degit))
 
 ```bash
 degit teefing/vite-react-lite your-app-name
