@@ -35,3 +35,6 @@ degit teefing/vite-react-lite your-app-name
 ### Styling
 
 - TailwindCSS v3
+
+### AutoImport
+- unplugin-auto-import
