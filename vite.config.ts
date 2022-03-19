@@ -8,6 +8,7 @@ export default defineConfig({
   plugins: [react(), tsconfigPaths(), AutoImport({
     imports: [
       'react',
+      'vitest',
     ],
     dts: true,
   })],
