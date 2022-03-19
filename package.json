@@ -37,6 +37,7 @@
     "@types/react-test-renderer": "^17.0.1",
     "@vitejs/plugin-react": "^1.0.7",
     "autoprefixer": "^10.4.2",
+    "c8": "^7.11.0",
     "commitizen": "^4.2.4",
     "eslint": "^8.11.0",
     "husky": "^7.0.4",
